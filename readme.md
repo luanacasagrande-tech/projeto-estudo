@@ -1,5 +1,6 @@
 # Imersão DevOps - Alura Google Cloud
 
+Projeto de estudo guiado do curso Imersão DevOps (Alura), meu primeiro contato com Python, Docker e GitHub.
 Este projeto é uma API desenvolvida com FastAPI para gerenciar alunos, cursos e matrículas em uma instituição de ensino.
 
 ## Pré-requisitos
